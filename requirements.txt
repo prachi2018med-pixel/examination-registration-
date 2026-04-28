@@ -1,7 +1,7 @@
-Flask
-Flask-SQLAlchemy
-psycopg2-binary
-qrcode
-pillow
-xhtml2pdf
-gunicorn
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+psycopg2-binary==2.9.9
+qrcode==7.4.2
+pillow==10.3.0
+xhtml2pdf==0.2.16
+gunicorn==22.0.0
